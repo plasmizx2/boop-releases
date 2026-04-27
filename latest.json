@@ -1,6 +1,19 @@
 {
-  "version": "0.0.0",
-  "notes": "No release yet.",
-  "pub_date": "2026-04-26T00:00:00Z",
-  "platforms": {}
+  "version": "0.4.2",
+  "notes": "See https://github.com/plasmizx2/boop-releases/releases/tag/v0.4.2 for details.",
+  "pub_date": "2026-04-27T01:55:50Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.2/Boop_0.4.2_aarch64.app.tar.gz",
+      "signature": ""
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.2/Boop_0.4.2_universal.app.tar.gz",
+      "signature": ""
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.2/Boop_0.4.2_x64-setup.nsis.zip",
+      "signature": ""
+    }
+  }
 }
