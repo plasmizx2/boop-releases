@@ -1,18 +1,18 @@
 {
-  "version": "0.4.2",
-  "notes": "See https://github.com/plasmizx2/boop-releases/releases/tag/v0.4.2 for details.",
-  "pub_date": "2026-04-27T01:55:50Z",
+  "version": "0.4.13",
+  "notes": "See https://github.com/plasmizx2/boop-releases/releases/tag/v0.4.13 for details.",
+  "pub_date": "2026-05-06T20:18:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.2/Boop_0.4.2_aarch64.app.tar.gz",
-      "signature": ""
+      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.13/Boop.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHFtZVVDRXIrSWFDWVhzU1N5KzZ1U1dTcnF5OXo1UGxQWmxpc3QyUjVhK0k5K2dSbXlzV2VidnlCcnlDNDZ1d1p1K29uOGZQbkEyZ2g3NU1yQUI2c1MxRStGK0huUFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDk4MjA4CWZpbGU6Qm9vcC5hcHAudGFyLmd6CnFJQWFSTVRwR2NibXJhS285c0phTjNZemEzbWJ6V25tN29KQytXeTFORCs1VmhWNUU3RzBWS1orSGFQN29yYVZCeDZuSloxRDBPcW9oRVdrbHZBRkNBPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.2/Boop_0.4.2_universal.app.tar.gz",
-      "signature": ""
+      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.13/Boop.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHFtZVVDRXIrSWFDWVhzU1N5KzZ1U1dTcnF5OXo1UGxQWmxpc3QyUjVhK0k5K2dSbXlzV2VidnlCcnlDNDZ1d1p1K29uOGZQbkEyZ2g3NU1yQUI2c1MxRStGK0huUFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDk4MjA4CWZpbGU6Qm9vcC5hcHAudGFyLmd6CnFJQWFSTVRwR2NibXJhS285c0phTjNZemEzbWJ6V25tN29KQytXeTFORCs1VmhWNUU3RzBWS1orSGFQN29yYVZCeDZuSloxRDBPcW9oRVdrbHZBRkNBPT0K"
     },
     "windows-x86_64": {
-      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.2/Boop_0.4.2_x64-setup.nsis.zip",
+      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.13/Boop_0.4.13_x64-setup.nsis.zip",
       "signature": ""
     }
   }
