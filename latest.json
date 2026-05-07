@@ -1,18 +1,18 @@
 {
-  "version": "0.4.14",
-  "notes": "See https://github.com/plasmizx2/boop-releases/releases/tag/v0.4.14 for details.",
-  "pub_date": "2026-05-06T21:14:09Z",
+  "version": "0.4.15",
+  "notes": "See https://github.com/plasmizx2/boop-releases/releases/tag/v0.4.15 for details.",
+  "pub_date": "2026-05-07T05:23:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.14/Boop.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHFtZVVDRXIrSVczNnRXSnQvNHRFVjgzWmZWTDR2NDdKb3BRT0IwUXduRHBjeUlJY2szQ0hhOUVTR0NySTZLQkV5UnVGOGNWS1Z0cWx0NnlzbnljY3RNUHZuaXQwY0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTAxNDgxCWZpbGU6Qm9vcC5hcHAudGFyLmd6Clo2VXVKUHJWdGxya2ZzRmZRUk5RSWdwNjN0dldiK3BYemd1bkwveXc0ekVRUmtBVkxkN1lFT0hESDJGWnJhRHZyK0Nldi9QU0ROanlsanFyZ1JRNUFnPT0K"
+      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.15/Boop.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHFtZVVDRXIrSVF6MlYzWmhjRkZBamZmb3ZZZXZkVW5UQnRUQ3JqdGVuVGY3Mlp1REw0cXRTY0crcUlQSzhqL3R4c0h1cTJNcjBtQ2J4ZGNQSHErTWNzcUFZU1J6Z2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTMxMDk4CWZpbGU6Qm9vcC5hcHAudGFyLmd6CjZwbDAvUVFqTWYvanhuNlBKbzVybVd1SnUzMFpXaUJRbVdNa0FzRkZBckxZYWJiN0pnYXg0OW5STVArOFVzZ1N1dXNWZDVZb3VobVcxT0hpOEVIY0NnPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.14/Boop.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHFtZVVDRXIrSVczNnRXSnQvNHRFVjgzWmZWTDR2NDdKb3BRT0IwUXduRHBjeUlJY2szQ0hhOUVTR0NySTZLQkV5UnVGOGNWS1Z0cWx0NnlzbnljY3RNUHZuaXQwY0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTAxNDgxCWZpbGU6Qm9vcC5hcHAudGFyLmd6Clo2VXVKUHJWdGxya2ZzRmZRUk5RSWdwNjN0dldiK3BYemd1bkwveXc0ekVRUmtBVkxkN1lFT0hESDJGWnJhRHZyK0Nldi9QU0ROanlsanFyZ1JRNUFnPT0K"
+      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.15/Boop.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZHFtZVVDRXIrSVF6MlYzWmhjRkZBamZmb3ZZZXZkVW5UQnRUQ3JqdGVuVGY3Mlp1REw0cXRTY0crcUlQSzhqL3R4c0h1cTJNcjBtQ2J4ZGNQSHErTWNzcUFZU1J6Z2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTMxMDk4CWZpbGU6Qm9vcC5hcHAudGFyLmd6CjZwbDAvUVFqTWYvanhuNlBKbzVybVd1SnUzMFpXaUJRbVdNa0FzRkZBckxZYWJiN0pnYXg0OW5STVArOFVzZ1N1dXNWZDVZb3VobVcxT0hpOEVIY0NnPT0K"
     },
     "windows-x86_64": {
-      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.14/Boop_0.4.14_x64-setup.nsis.zip",
+      "url": "https://github.com/plasmizx2/boop-releases/releases/download/v0.4.15/Boop_0.4.15_x64-setup.nsis.zip",
       "signature": ""
     }
   }
